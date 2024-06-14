@@ -20,3 +20,4 @@ zookeeper:latest
 neo4j:latest
 grafana/grafana:latest
 bitnami/minio:latest
+xprobe/xinference:latest
