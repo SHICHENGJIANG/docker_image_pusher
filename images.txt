@@ -12,9 +12,11 @@ mongo:5.0.18
 ghcr.io/labring/fastgpt-sandbox:v4.8.3
 mysql:8.0.36
 ghcr.io/songquanpeng/one-api:latest
-influxdb
-memcached
-mariadb
-registry
-zookeeper
-neo4j
+influxdb:latest
+memcached:latest
+mariadb:latest
+registry:latest
+zookeeper:latest
+neo4j:latest
+grafana/grafana:latest
+bitnami/minio:latest
