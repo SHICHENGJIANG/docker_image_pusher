@@ -20,5 +20,5 @@ zookeeper:latest
 neo4j:latest
 grafana/grafana:latest
 bitnami/minio:latest
-xprobe/xinference:latest
 zlmediakit/zlmediakit:master
+xprobe/xinference:latest
