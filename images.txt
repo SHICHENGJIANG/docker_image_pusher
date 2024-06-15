@@ -21,7 +21,6 @@ neo4j:latest
 grafana/grafana:latest
 bitnami/minio:latest
 zlmediakit/zlmediakit:master
-ubuntu:18.04
 ubuntu:20.04
 ubuntu:22.04
 xprobe/xinference:latest
