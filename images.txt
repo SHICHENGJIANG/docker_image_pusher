@@ -8,7 +8,6 @@ maven:3.5-jdk-8
 tensorflow/tensorflow
 nginx:1.20.0
 fnndsc/dbg-nvidia-smi
-nvidia/cuda:11.0-base
 langgenius/dify-api:0.6.10
 langgenius/dify-api:0.6.10
 langgenius/dify-web:0.6.10
