@@ -3,6 +3,10 @@ node:18.20.3
 node:20.14.0
 python:3.7.13
 python:3.10
+maven:3.5-jdk-8
+tensorflow/tensorflow
+nginx:1.20.0
+nvidia/cuda:10.2-cudnn7-devel-ubuntu16.04
 langgenius/dify-api:0.6.10
 langgenius/dify-api:0.6.10
 langgenius/dify-web:0.6.10
