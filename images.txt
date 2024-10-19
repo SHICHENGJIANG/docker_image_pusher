@@ -14,13 +14,8 @@ semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.1
 ubuntu/squid:latest
 nginx:latest
-pgvector/pgvector:0.7.0-pg15
 mongo:5.0.18
-ghcr.io/labring/fastgpt-sandbox:latest
-ghcr.io/labring/fastgpt:v4.8.9
 mysql:8.0.36
-ghcr.io/songquanpeng/one-api:latest
-ghcr.io/songquanpeng/one-api:v0.6.7
 influxdb:latest
 memcached:latest
 mariadb:latest
